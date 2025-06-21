@@ -1,0 +1,50 @@
+﻿  TestUIMainScreen.cpp
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\TestUIMainScreen.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClsInput&VaelidationClass\testClsInput&VaelidationClass\clsInputValidation.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassDate\testClassDate\clsDate.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(74,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(102,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(120,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(223,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(237,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(242,28): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(254,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(359,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(496,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClsInput&VaelidationClass\testClsInput&VaelidationClass\clsInputValidation.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testPeriodClass\testPeriodClass\clsPeriod.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+  Generating code
+  2 of 99 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TestUIMainScreen.vcxproj -> C:\Users\thinkbook\Source\Repos\TestUIMainScreen\x64\Release\TestUIMainScreen.exe

@@ -1,0 +1,395 @@
+﻿  TestUIMainScreen.cpp
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\TestUIMainScreen.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsLoginScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsBankUser.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClsUtilClass\testClsUtilClass\clsUtil.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassDate\testClassDate\clsDate.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(74,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(102,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(120,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(223,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(237,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(242,28): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(254,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(359,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassString\testClassString\clsString.h(496,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassDate\testClassDate\clsDate.h(227,15): warning C4101: 'year': unreferenced local variable
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassDate\testClassDate\clsDate.h(227,28): warning C4101: 'day': unreferenced local variable
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClassDate\testClassDate\clsDate.h(227,21): warning C4101: 'month': unreferenced local variable
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsBankUser.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsBankUser.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\bankProjectByOOP\bankProjectByOOP\clsPerson.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsBankUser.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsBankUser.h(173,12): warning C4240: nonstandard extension used: access to 'clsBankUser::LoginRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'TestUIMainScreen.cpp')
+      C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsBankUser.h(20,12):
+      see declaration of 'clsBankUser::LoginRegister'
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsBankUser.h(210,17): warning C4091: 'static ': ignored on left of 'clsBankUser::enSaveResult' when no variable is declared
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsLoginScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\Global.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsLoginScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsClientListScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\bankProjectByOOP\bankProjectByOOP\clsBankClient.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\bankProjectByOOP\bankProjectByOOP\clsBankClient.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\bankProjectByOOP\bankProjectByOOP\clsBankClient.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\bankProjectByOOP\bankProjectByOOP\clsBankClient.h(175,12): warning C4240: nonstandard extension used: access to 'clsBankClient::transferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'TestUIMainScreen.cpp')
+      C:\Users\thinkbook\Source\Repos\bankProjectByOOP\bankProjectByOOP\clsBankClient.h(23,12):
+      see declaration of 'clsBankClient::transferLog'
+  
+C:\Users\thinkbook\Source\Repos\bankProjectByOOP\bankProjectByOOP\clsBankClient.h(186,17): warning C4091: 'static ': ignored on left of 'clsBankClient::enSaveResult' when no variable is declared
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsAddNewClient.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsAddNewClient.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsAddNewClient.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClsInput&VaelidationClass\testClsInput&VaelidationClass\clsInputValidation.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testClsInput&VaelidationClass\testClsInput&VaelidationClass\clsInputValidation.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\testPeriodClass\testPeriodClass\clsPeriod.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateClient.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateClient.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateClient.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsDeleteClient.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsDeleteClient.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsDeleteClient.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsFindClientScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsFindClientScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsFindClientScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransactionScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransactionScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsDepositScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsDepositScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsDepositScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransactionScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsWithdrawScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsWithdrawScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsWithdrawScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransactionScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransferLog.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransactionScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsShowBalancesScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsShowBalancesScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsShowBalancesScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsShowBalancesScreen.h(63,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransactionScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransferScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransferScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransferScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransferScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsTransactionScreen.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(11,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsManageUsers.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsManageUsers.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUsersList.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsManageUsers.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsAddUser.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsAddUser.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsAddUser.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsManageUsers.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\ClsDeleteUser.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\ClsDeleteUser.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\ClsDeleteUser.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsManageUsers.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateUser.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateUser.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateUser.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsManageUsers.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsFindUser.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsFindUser.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsFindUser.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsManageUsers.h(11,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(12,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(13,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsLoginRegisterScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(14,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsListCurrencies.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsListCurrencies.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrency.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrency.h(37,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsFindCurrency.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsFindCurrency.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsFindCurrency.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateCurrency.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateCurrency.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateCurrency.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateCurrency.h(53,18): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateCurrency.h(53,18): warning C4244:         with
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateCurrency.h(53,18): warning C4244:         [
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateCurrency.h(53,18): warning C4244:             T=double
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsUpdateCurrency.h(53,18): warning C4244:         ]
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyCalculator.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyCalculator.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyCalculator.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyCalculator.h(86,59): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyCalculator.h(86,59): warning C4244:         with
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyCalculator.h(86,59): warning C4244:         [
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyCalculator.h(86,59): warning C4244:             T=double
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyCalculator.h(86,59): warning C4244:         ]
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyCalculator.h(58,25): warning C4101: 'result': unreferenced local variable
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsCurrencyScreen.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsMainScreen.h(15,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsLoginScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsLoginScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestUIMainScreen.cpp')
+  
+C:\Users\thinkbook\Source\Repos\bankProjectByOOP\bankProjectByOOP\clsBankClient.h(341,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Users\thinkbook\Source\Repos\TestUIMainScreen\TestUIMainScreen\clsBankUser.h(368,1): warning C4715: 'clsBankUser::save': not all control paths return a value
+  TestUIMainScreen.vcxproj -> C:\Users\thinkbook\Source\Repos\TestUIMainScreen\x64\Debug\TestUIMainScreen.exe
