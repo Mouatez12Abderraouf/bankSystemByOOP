@@ -5,19 +5,31 @@ All account data is stored in a file (used as storage), so information is saved 
 
 # Features
 
-Create new accounts
+## Client Management
 
-authentication (username & password)
+Show client list
 
-Admin Dashboard to manage users and monitor system activity
+Add new client
 
-Deposit and withdraw money
+Delete client
 
-Check account balance
+Update client information
 
-Display account details
+Find client
 
-Data is saved in a file for storage
+## Banking Operations
+
+Transactions (deposit/withdraw)
+
+Currency exchange
+
+## User & Admin Management
+
+Manage users
+
+Login register
+
+Logout
 
 # Technologies Used
 
@@ -29,15 +41,15 @@ OOP concepts: Classes, Encapsulation, Inheritance, Polymorphism
 
 # How to Run
 
+
 ## Clone the repository
 ```bush
 git clone https://github.com/your-username/bank-system.git
 ```
+
 ## Compile the source code
 ```bush
 g++ main.cpp -o bank
 ./bank
 ```
-# Future Improvements
 
-Improve file structure (e.g., CSV or JSON format)
